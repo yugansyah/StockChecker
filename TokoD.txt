@@ -1,0 +1,17 @@
+4
+Baju
+Kaos
+150
+150000
+Celana
+Jogger
+100
+223000
+Aksesoris
+Topi
+50
+35000
+Sepatu
+Sendal
+120
+10000
